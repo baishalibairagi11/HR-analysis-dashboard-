@@ -1,2 +1,2 @@
 # HR-analysis-dashboard-
-HR analysis project in power bi -This project helps me to identify trend in employees turnover , allowing HR to develop strategies to improve employees retention.
+The HR analysis dashboard project aims to develop a visual tool for tracking and analyzing human resources data, providing insights into employee performance, engagement, retention, and other relevant metrics to support strategic decision-making within the organization.
